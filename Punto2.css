@@ -1,0 +1,31 @@
+#banner {
+    background-color: darkolivegreen;
+    height: 150px;
+
+}
+
+#footer {
+    background-color: darkolivegreen;
+    height: 150px;
+
+}
+
+#left {
+    background-color: darkorange;
+}
+
+#topmenu {
+    background-color: rosybrown;
+}
+
+#impar {
+    background-color: palevioletred;
+}
+
+#par {
+    background-color: lightseagreen;
+}
+
+#main1 {
+    height: 200px;
+}
